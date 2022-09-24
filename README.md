@@ -2,7 +2,7 @@
 
 Demo test dev, this project is still under development due to a lack of time - sincerely apologize for the inconvenience. Obviously, this project will be updated continuously until it finished.
 
-Many thanks for your time.
+Thanks for your time.
 
 ## Deployment
 
