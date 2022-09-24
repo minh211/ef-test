@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2",
+    "title": "CHEST DAY - WITH ARM EXERCISE",
+    "position": "Tue",
+    "exercise": [
+      {
+        "id": "1",
+        "title": "Bench Press Medium Grip",
+        "detail": "50 lb x 5, 60 lb x 5, 70 lb x 5",
+        "number": 3
+      },
+      {
+        "id": "2",
+        "title": "Exercise B",
+        "detail": "40 lb x 10",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "LEG DAY",
+    "position": "Wed",
+    "exercise": [
+      {
+        "id": "1",
+        "title": "Exercise C",
+        "detail": "40 lb x 5",
+        "number": 1
+      },
+      {
+        "id": "2",
+        "title": "Exercise D",
+        "detail": "40 lb x 5",
+        "number": 1
+      },
+      {
+        "id": "3",
+        "title": "Exercise E",
+        "detail": "40 lb x 5",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "ARM DAY",
+    "position": "Wed",
+    "exercise": [
+      {
+        "id": "1",
+        "title": "Exercise F",
+        "detail": "60 lb x 6",
+        "number": 1
+      }
+    ]
+  }
+]

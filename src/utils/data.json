@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Mon",
+    "dayOfMonth": 19
+  },
+  {
+    "id": "Tue",
+    "dayOfMonth": 20
+  },
+  {
+    "id": "Wed",
+    "dayOfMonth": 21
+  },
+  {
+    "id": "Thu",
+    "dayOfMonth": 22
+  },
+  {
+    "id": "Fri",
+    "dayOfMonth": 23
+  },
+  {
+    "id": "Sat",
+    "dayOfMonth": 24
+  },
+  {
+    "id": "Sun",
+    "dayOfMonth": 25
+  }
+]
